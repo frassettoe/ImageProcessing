@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt  # To display an image
 import numpy  # To manipulate matrices
 from scipy import misc  # To load an image
 from copy import deepcopy
+#This is just a test
 
 
 def display(image):
