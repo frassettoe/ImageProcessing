@@ -4,7 +4,7 @@ import numpy  # To manipulate matrices
 from scipy import misc  # To load an image
 from copy import deepcopy
 #This is just a test
-
+#HOw do you use github?  Who knows.
 
 def display(image):
     plt.imshow(image)
